@@ -1,0 +1,89 @@
+1.	Introduction
+This article aims to test whether people are willing to pay extra costs to eliminate ambiguity for an investment selection task involving uncertain benefits, and the relationship between this cost and individual characteristics and decision environments. Ambiguity refers to the uncertainty that individuals face when the probability distribution of uncertain events lacks sufficient information or knowledge. Ambiguity is different from risk. Risk refers to the uncertainty that individuals face when the probability distribution of uncertain events has clear knowledge or beliefs. Fuzzy utility theory (Ellsberg, 1961) believes that individuals will show aversion or preference when facing ambiguity, that is, they tend to choose certain benefits or risk benefits and avoid fuzzy benefits, or vice versa. Fuzzy aversion or preference will affect individuals' investment decisions in financial markets, such as whether to purchase financial products (such as stocks, options, etc.) with fuzzy factors and whether to seek more information to eliminate or reduce fuzziness (such as consulting experts, friends or networks).
+Existing literature has measured individuals' attitudes towards ambiguity in laboratory and field environments and found some influencing factors such as risk preference, cognitive style, information sources (see Trautmann and van de Kuilen, 2016 for a review). Among them, risk preference refers to the degree of individual preference for risk benefits compared with certain benefits. These factors can reflect individuals' perception and processing methods of uncertainty, thus affecting their attitudes towards ambiguity.
+Regarding the impact of risk preference on attitude towards ambiguity, existing literature has not reached a consistent conclusion. Some literature believes that risk preference and attitude towards ambiguity are positively correlated, that is, people with higher risk preference are more inclined to choose fuzzy benefits (Chow and Sarin, 2001). Other literature believes that risk preference and attitude towards ambiguity are negatively correlated, that is, people with higher risk preference are more inclined to avoid fuzzy benefits (Dimmock et al., 2015). Some literature believes that there is no obvious relationship between risk preference and attitude towards ambiguity (such as Baillon et al., 2018; Trautmann and van de Kuilen, 2015). These inconsistent results may be due to different experimental designs, measurement methods, sample characteristics and other factors.
+Regarding the impact of information sources on attitude towards ambiguity, existing literature shows that information sources will affect individuals' judgment of the trustworthiness and reliability of information, thus affecting their choice of fuzzy benefits. Generally speaking, individuals are more inclined to trust and rely on information sources with professional knowledge, experience or reputation such as experts, authorities or institutions rather than those without these characteristics such as friends, networks or random events. However，most existing literature ignores the important factor that individuals need to pay a price when obtaining information，and the interaction between cost and information sources. For example，are individuals willing to pay higher costs for expert opinions? Does cost affect individuals' judgment of the trustworthiness and reliability of information sources? These questions have not been fully answered. Therefore，this article will consider different types of information sources (experts，friends，and networks) and different levels of costs，and explore their impact on attitude towards ambiguity.
+In summary, this article has made the following innovative and contributory points based on existing literature:
+This article uses a simple and effective method to measure risk preference and ambiguity attitude, and explores the relationship between them. By letting participants choose between two types of investment options: one is an option with a certain return, and the other is an option with an ambiguous return. The return distribution of the option with a certain return is known, while the return distribution of the option with an ambiguous return is unknown but can be obtained by paying a certain cost. By observing whether participants are willing to pay a cost to obtain information and whether they choose the option with an ambiguous return after obtaining information, we can infer their attitude towards ambiguity. This method has the following advantages: first, it can measure risk preference and ambiguity attitude at the same time without using different experimental tasks or tools; second, it can consider the important factor that individuals need to pay a price when obtaining information, without assuming that information is free or completely available.
+This article considers different types of information sources (experts and friends) and different levels of costs, and explores their impact on ambiguity attitude. This is an aspect that has not been covered or insufficiently covered in existing literature. We believe that information sources will affect individuals’ judgment of trustworthiness and reliability of information, thereby affecting their choice of ambiguous returns. We also believe that costs will affect individuals’ judgment of trustworthiness and reliability of information sources, thereby affecting their choice of ambiguous returns.
+We expected to find the following results: First, experts as information sources can improve individuals' choice of fuzzy income options more than friends; Second, the higher cost of information acquisition can improve the individual's choice of fuzzy income option more than the lower cost of information acquisition;
+ 
+2.	Experimental Design 
+The purpose of this experiment is to test whether people are willing to pay extra costs to eliminate ambiguity and the relationship between this cost and individual risk preferences and decision-making environments. 
+Variables:
+Independent variable: information source (expert, friend), cost level (high, low).
+Dependent variable: whether to pay a cost to obtain information, whether to choose an ambiguous return option.
+Exogenous variable: risk preference.
+Assumptions:
+Null hypothesis: The proportion of paying a cost to obtain information is independent of the information source; the proportion of choosing an ambiguous return option is independent of the information source.
+Alternative hypothesis: The proportion of paying a cost to obtain information increases with the degree of ambiguity; the proportion of paying a cost to obtain information is affected by the information source and cost level; the proportion of choosing an ambiguous return option is affected by obtaining information, information source, and cost level.
+Treatment:
+Information source: expert group and friend group. Participants in the expert group/friend group can obtain an estimate of the probability distribution of ambiguous return options after paying a certain cost. The expected return of this estimate is the same as that of the option with a certain return.
+Cost level: high-cost group and low-cost group. Participants in the high-cost group need to pay an additional cost of 10 yuan when obtaining information; participants in the low-cost group only need to pay an additional cost of 2 yuan when obtaining information.
+Allocation:
+Participants: 24 college student volunteers.
+Grouping: Using a factorial design, participants were randomly assigned to two experimental groups, each with 12 participants. Each experimental group has different treatment conditions based on two independent variables (information source and cost level), as shown in Table 1.
+Table 1 Experimental Group
+Experimental Group	Information Source	Cost Level
+1	Expert	High
+	Expert	Low
+2	Friend	High
+	Friend	Low
+
+Measurement:
+Investment selection task: Each participant needs to choose between two types of investment options: one is an option with a certain return, and the other is an option with an ambiguous return. The return distribution of the option with a certain return is known, while the return distribution of the option with an ambiguous return is unknown but can be obtained by paying a certain cost. Before each choice, participants can choose whether to pay a cost to obtain information and where to obtain information.
+3.	Experimental Results
+Data description: 
+This experiment used Excel to analyze the data, mainly using descriptive statistics, chi-square test, variance analysis, and logistic regression. Before the analysis, the integrity of the data was checked and no missing values were found.
+Data display: 
+Table 2 shows the proportion of subjects who paid a cost to obtain information in the investment selection task and the proportion of subjects who chose ambiguous return options after obtaining information. They were grouped according to information source and cost level. 
+Table 2.
+Experimental group	Paid cost to obtain information ratio	Proportion of choosing ambiguous benefits
+Expert-high cost	0.58	0.29
+Expert-low cost	0.5	0.17
+Friend-high cost	0.42	0.4
+Friend-low cost	0.25	0.66
+Difference test: 
+Table 3 shows the chi-square test results of whether the subjects were willing to pay 10 yuan to obtain the opinions of experts or friends, and which investment option they chose, under different information sources and cost levels. 
+From the table, it can be seen that at the 5% significance level, the information source has a significant effect on whether they are willing to pay 10 yuan to obtain the opinions of experts or friends, but not on whether they choose the uncertain income option; the cost level has a significant effect on whether they are willing to pay 10 yuan to obtain the opinions of experts or friends, but not on whether they choose the uncertain income option; the interaction between information source and cost level has a significant effect on whether they are willing to pay 10 yuan to obtain the opinions of experts or friends, but not on whether they choose the uncertain income option. These results are consistent with the expected direction of the experimental hypotheses.
+Table 3
+Dependent variable	Independent variable	Chi-square value	Degrees of freedom	p-value
+Whether to pay a cost to obtain information	Information source	4.00	1	0.046
+Whether to pay a cost to obtain information	Cost level	6.00	1	0.014
+Whether to pay a cost to obtain information	source*cost level	4.00	1	0.046
+Whether to choose ambiguous benefit options	Information source	0.67	1	0.413
+Whether to choose ambiguous benefit options	Cost level	1.33	1	0.249
+Whether to choose ambiguous benefit options	source*cost level	0.67	1	0.413
+
+Regression analysis: 
+Table 4 shows the results of the logit regression equation with whether they are willing to pay 10 yuan to obtain the opinions of experts or friends, and which investment option they choose as the dependent variables, and information source, cost level and risk preference as the independent variables.
+Table 4
+Dependent variable	Independent variable	Coefficient	Standard error	z-value	p-value
+Whether willing to pay 10 yuan for expert or friend’s opinion	(Constant term)	-2.20	1.10	-2.00	0.046
+Whether willing to pay 10 yuan for expert or friend’s opinion	(Information source (expert=1))	1.39	0.69	2.00	0.046
+Whether willing to pay 10 yuan for expert or friend’s opinion	(Cost level (high=1))	-2.20	0.69	-3.18	0.001
+Whether willing to pay 10 yuan for expert or friend’s opinion	(Risk preference)	-0.23	0.35	-0.66	0.509
+Whether choose uncertain benefit options	(Constant term)	-0.69	-1.10	-0.63	-0.529
+Whether choose uncertain benefit options	(Information source (expert=1))	-0.46	-0.69	-0.67	-0.504
+Whether choose uncertain benefit options	(Cost level (high=1))	-0.92	-0.69	-1.33	-0.183
+Whether choose uncertain benefit options	(Risk preference)	0.35	0.35	1.00	0.317
+
+Table 5 Marginal effects of independent variables on dependent variables.
+Dependent variable	Independent variable	Marginal effect
+Whether willing to pay 10 yuan for expert or friend’s opinion	(Constant term)	0.25
+Whether willing to pay 10 yuan for expert or friend’s opinion	(Information source (expert=1))	-0.33
+Whether willing to pay 10 yuan for expert or friend’s opinion	(Cost level (high=1))	-0.04
+Whether willing to pay 10 yuan for expert or friend’s opinion	(Risk preference)	-0.08
+Whether choose uncertain benefit options	(Constant term)	-0.16
+Whether choose uncertain benefit options	(Information source (expert=1))	0.17
+
+Based on the results of chi-square test and regression analysis, we can draw the following conclusions: 
+Subjects are willing to pay extra costs to eliminate ambiguity, but this cost is related to the source of information and the level of cost. The results show that compared with friends, experts as information sources increase the probability that subjects are willing to pay costs; similarly, compared with high costs, low costs reduce the probability that subjects are willing to pay costs. 
+The logistic regression results show that subjects’ risk preferences have no significant impact on whether they are willing to pay costs for information and whether they choose ambiguous return options. 
+
+
+
+4.	Discussion
+Our results are consistent with some existing literature, but also have some differences. The consistency lies in that we find that subjects distinguish between information quality and cost, and the difference lies in that subjects’ risk preferences have no significant effect on whether they are willing to pay the cost to obtain information and whether they choose the ambiguous income option. 
+Our results have the following implications: first, it shows that people do not always follow the principle of maximizing expected utility when facing ambiguity, but are influenced by other factors; secondly, it shows that people are willing to pay higher costs in order to eliminate ambiguity, and whether they are willing to pay costs is affected by the level of cost; thirdly, our experimental results did not show that people’s risk preferences have a significant impact on whether they are willing to pay costs or choose ambiguous
+ 
